@@ -1,0 +1,22 @@
+nav{
+    background-color: rgb(35, 38, 38);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
+}
+
+li, a{
+    list-style-type: none;
+    text-decoration: 0;
+    color: white;
+    font-size: 25px;
+}
+
+.botones ul{
+    display: flex;
+    gap: 30px;
+    
+}
